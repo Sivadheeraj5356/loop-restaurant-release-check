@@ -1,0 +1,1 @@
+{"name":"loop-restaurant-release-check","version":"1.0.0","private":false,"description":"Release readiness checks for restaurant operations MVPs","type":"module","scripts":{"test":"node --test"},"engines":{"node":">=18"},"license":"MIT"}
